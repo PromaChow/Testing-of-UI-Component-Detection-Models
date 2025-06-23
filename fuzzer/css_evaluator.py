@@ -48,12 +48,14 @@ class CSSEvaluator:
             
             if bg_color and fg_color and bg_color.startswith('#') and fg_color.startswith('#'):
                 contrast = self.calculate_contrast_ratio(bg_color, fg_color)
-                if contrast >= 4.5:
+                if contrast >= 7.0:
                     scores.append(1.0)
+                elif contrast >= 4.5:
+                    scores.append(0.8)
                 elif contrast >= 3.0:
-                    scores.append(0.7)
+                    scores.append(0.6)
                 else:
-                    scores.append(0.3)
+                    scores.append(0.2)
         
         return sum(scores) / len(scores) if scores else 0.5
 
@@ -137,5 +139,107 @@ class CSSEvaluator:
                         score = max(0.1, math.exp(-deviation + 3))
                     
                     scores.append(score)
+        
+        return sum(scores) / len(scores) if scores else 0.5
+
+    def evaluate_typography(self, css):
+        def get_expected_font_size(selector):
+            selector = selector.lower()
+            if any(x in selector for x in ['h1', 'headline1', 'headline-large']):
+                return 32
+            elif any(x in selector for x in ['h2', 'headline2', 'headline-medium']):
+                return 28
+            elif any(x in selector for x in ['h3', 'headline3', 'headline-small']):
+                return 24
+            elif any(x in selector for x in ['h4', 'title1', 'title-large']):
+                return 22
+            elif any(x in selector for x in ['h5', 'title2', 'title-medium']):
+                return 16
+            elif any(x in selector for x in ['h6', 'title3', 'title-small']):
+                return 14
+            elif any(x in selector for x in ['body1', 'body-large']):
+                return 16
+            elif any(x in selector for x in ['body2', 'body-medium']):
+                return 14
+            elif any(x in selector for x in ['caption', 'label-small']):
+                return 12
+            elif any(x in selector for x in ['overline', 'label-medium']):
+                return 11
+            return 14
+
+        def get_expected_line_height(font_size):
+            return font_size * 1.5
+
+        def get_expected_font_weight(selector):
+            selector = selector.lower()
+            if any(x in selector for x in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'headline', 'title']):
+                return 500
+            elif any(x in selector for x in ['button', 'btn']):
+                return 500
+            elif any(x in selector for x in ['overline', 'caption']):
+                return 400
+            return 400
+
+        scores = []
+        for selector, properties in css.items():
+            font_size = None
+            line_height = None
+            font_weight = None
+            
+            for prop in properties:
+                prop_name = list(prop['name'])[0]
+                prop_value = list(prop['value'])[0]
+                
+                if prop_name == 'font-size':
+                    font_size = self.extract_number(prop_value)
+                elif prop_name == 'line-height':
+                    line_height = self.extract_number(prop_value)
+                elif prop_name == 'font-weight':
+                    font_weight = self.extract_number(prop_value)
+            
+            if font_size:
+                expected_size = get_expected_font_size(selector)
+                size_deviation = abs(font_size - expected_size)
+                
+                if size_deviation <= 1:
+                    size_score = 1.0
+                elif size_deviation <= 2:
+                    size_score = 0.8
+                elif size_deviation <= 4:
+                    size_score = 0.6
+                else:
+                    size_score = max(0.2, math.exp(-size_deviation/4))
+                
+                scores.append(size_score)
+            
+            if line_height and font_size:
+                expected_lh = get_expected_line_height(font_size)
+                lh_deviation = abs(line_height - expected_lh)
+                
+                if lh_deviation <= 2:
+                    lh_score = 1.0
+                elif lh_deviation <= 4:
+                    lh_score = 0.8
+                elif lh_deviation <= 6:
+                    lh_score = 0.6
+                else:
+                    lh_score = max(0.2, math.exp(-lh_deviation/6))
+                
+                scores.append(lh_score)
+            
+            if font_weight:
+                expected_weight = get_expected_font_weight(selector)
+                weight_deviation = abs(font_weight - expected_weight)
+                
+                if weight_deviation <= 50:
+                    weight_score = 1.0
+                elif weight_deviation <= 100:
+                    weight_score = 0.8
+                elif weight_deviation <= 200:
+                    weight_score = 0.6
+                else:
+                    weight_score = max(0.2, math.exp(-weight_deviation/200))
+                
+                scores.append(weight_score)
         
         return sum(scores) / len(scores) if scores else 0.5

@@ -1,5 +1,6 @@
 import random
 import colorsys
+import re
 from collections import defaultdict
 
 class CSSModifier:
@@ -8,6 +9,9 @@ class CSSModifier:
         self.size_history = []
         self.radius_history = []
         self.shadow_history = []
+        self.font_size_history = []
+        self.line_height_history = []
+        self.font_weight_history = []
         self.previous_values = defaultdict(dict)
 
     def modify_contrast(self, css, increase):
@@ -120,6 +124,71 @@ class CSSModifier:
                         new_value = f"{int(new_radius)}px"
                         prop['value'] = {new_value}
                         self.radius_history.append(str(int(new_radius)))
+        return new_css
+
+    def modify_font_size(self, css, increase):
+        new_css = css.copy()
+        for properties in new_css.values():
+            for prop in properties:
+                if 'font-size' in prop['name']:
+                    size = self.extract_number(list(prop['value'])[0])
+                    if size:
+                        new_size = size * (1.1 if increase else 0.9)
+                        new_value = f"{int(new_size)}px"
+                        prop['value'] = {new_value}
+                        self.font_size_history.append(str(int(new_size)))
+        return new_css
+
+    def modify_line_height(self, css, increase):
+        new_css = css.copy()
+        for properties in new_css.values():
+            for prop in properties:
+                if 'line-height' in prop['name']:
+                    height = self.extract_number(list(prop['value'])[0])
+                    if height:
+                        new_height = height * (1.1 if increase else 0.9)
+                        new_value = f"{new_height:.1f}"
+                        prop['value'] = {new_value}
+                        self.line_height_history.append(str(new_height))
+        return new_css
+
+    def modify_font_weight(self, css, increase):
+        new_css = css.copy()
+        for properties in new_css.values():
+            for prop in properties:
+                if 'font-weight' in prop['name']:
+                    weight = self.extract_number(list(prop['value'])[0])
+                    if weight:
+                        if increase:
+                            new_weight = min(900, weight + 100)
+                        else:
+                            new_weight = max(100, weight - 100)
+                        new_value = str(int(new_weight))
+                        prop['value'] = {new_value}
+                        self.font_weight_history.append(new_value)
+        return new_css
+
+    def randomize_typography(self, css):
+        new_css = css.copy()
+        font_sizes = [12, 14, 16, 18, 20, 24, 28, 32, 36]
+        line_heights = [1.2, 1.3, 1.4, 1.5, 1.6]
+        font_weights = [300, 400, 500, 600, 700]
+        
+        for properties in new_css.values():
+            for prop in properties:
+                if 'font-size' in prop['name']:
+                    new_size = random.choice(font_sizes)
+                    prop['value'] = {f"{new_size}px"}
+                    self.font_size_history.append(str(new_size))
+                elif 'line-height' in prop['name']:
+                    new_height = random.choice(line_heights)
+                    prop['value'] = {str(new_height)}
+                    self.line_height_history.append(str(new_height))
+                elif 'font-weight' in prop['name']:
+                    new_weight = random.choice(font_weights)
+                    prop['value'] = {str(new_weight)}
+                    self.font_weight_history.append(str(new_weight))
+        
         return new_css
 
     def extract_number(self, value):
