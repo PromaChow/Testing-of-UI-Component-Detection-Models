@@ -1,0 +1,407 @@
+.time {
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 20px;
+    font-weight: 500;
+    z-index: 0;
+}
+
+.right-icons {
+    width: 46px;
+    position: relative;
+    height: 17px;
+    z-index: 1;
+}
+
+.camera-cutout-icon {
+    width: 24px;
+    position: absolute;
+    margin: 0;
+    top: 18px;
+    left: calc(50% - 12px);
+    height: 24px;
+    z-index: 2;
+}
+
+.status-bar {
+    align-self: stretch;
+    height: 52px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 10px 24px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+
+.state-layer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+}
+
+.container {
+    border-radius: 20289525341897750152207303963765847864772133384746633526636870418818300792050542486052339976133145075818802984936925972054208019351875900624290289246397856647931305366248190408061930984551390785084099196008784547893804803554472917958416403198587860911786690344355657658541784223768388485251072px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.leading-icon {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.headline {
+    flex: 1;
+    position: relative;
+    line-height: 28px;
+}
+
+.trailing-icon {
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.top-app-bar {
+    align-self: stretch;
+    background-color: #8b3178;
+    height: 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 8px 4px;
+    box-sizing: border-box;
+    gap: 4px;
+    font-size: 22px;
+}
+
+.label-text {
+    position: relative;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+.state-layer2 {
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 16px;
+    box-sizing: border-box;
+}
+
+.filter-chip-01 {
+    border-radius: 782513011096449712981614857913964639169053918585968269804535520848758843766488482439218636652937197031185932037230874037169118275502311116030171379529972898693302084159638782240866340715304994039792783366662485858527336440160175957165131951515897648810967450509014727871061700283398937903104px;
+    border: 1px solid #79747e;
+    box-sizing: border-box;
+    height: 32px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.selected-icon {
+    width: 18px;
+    position: relative;
+    height: 18px;
+}
+
+.state-layer3 {
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 16px 6px 8px;
+    box-sizing: border-box;
+    gap: 8px;
+}
+
+.filter-chip-02 {
+    border-radius: 782513011096449712981614857913964639169053918585968269804535520848758843766488482439218636652937197031185932037230874037169118275502311116030171379529972898693302084159638782240866340715304994039792783366662485858527336440160175957165131951515897648810967450509014727871061700283398937903104px;
+    background-color: #321e11;
+    height: 32px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: #a9ff51;
+}
+
+.filter-chips-carousel {
+    align-self: stretch;
+    background-color: #ff878e;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px;
+    gap: 4px;
+    text-align: center;
+    color: #2c2236;
+}
+
+.state-layer12 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 16px 10px 12px;
+    gap: 8px;
+}
+
+.button-1 {
+    width: 89px;
+    border-radius: 20289525341897750152207303963765847864772133384746633526636870418818300792050542486052339976133145075818802984936925972054208019351875900624290289246397856647931305366248190408061930984551390785084099196008784547893804803554472917958416403198587860911786690344355657658541784223768388485251072px;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.button-2 {
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 0;
+}
+
+.sorting-controls {
+    align-self: stretch;
+    background-color: #ff51a3;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 8px 8px 16px;
+    text-align: center;
+    color: #0c111e;
+}
+
+.image-icon {
+    align-self: stretch;
+    position: relative;
+    border-radius: 2336571328216159829748652892344118845387644009895769340629331418115701383163402928291987191274345586147222363549100877136624910984078431070071210531162802906310221054098376654994511984620264914690507004382815784737672549919470190711286710660925883072569042526879716112543558660773953356693504px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 120px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+
+.title {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.date {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    line-height: 16px;
+    color: #375123;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    height: 16px;
+    flex-shrink: 0;
+}
+
+.content {
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.card-01 {
+    width: 121.3px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+
+.card-grid {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    padding: 0 16px 32px;
+    gap: 8px;
+}
+
+.state-layer14 {
+    width: 64px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 20px;
+    box-sizing: border-box;
+}
+
+.icon-container {
+    border-radius: 2336571328216159829748652892344118845387644009895769340629331418115701383163402928291987191274345586147222363549100877136624910984078431070071210531162802906310221054098376654994511984620264914690507004382815784737672549919470190711286710660925883072569042526879716112543558660773953356693504px;
+    background-color: #3ab458;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.label-text11 {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: 0.5px;
+    line-height: 16px;
+    font-weight: 600;
+}
+
+.nav-item-1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 0 16px;
+    gap: 4px;
+    color: #95a55d;
+}
+
+.icon-container1 {
+    width: 32px;
+    border-radius: 2336571328216159829748652892344118845387644009895769340629331418115701383163402928291987191274345586147222363549100877136624910984078431070071210531162802906310221054098376654994511984620264914690507004382815784737672549919470190711286710660925883072569042526879716112543558660773953356693504px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.label-text12 {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: 0.5px;
+    line-height: 16px;
+    font-weight: 500;
+}
+
+.nav-item-2 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 0 16px;
+    gap: 4px;
+}
+
+.navigation-bar {
+    align-self: stretch;
+    background-color: #161723;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 8px;
+    gap: 8px;
+    text-align: center;
+    font-size: 12px;
+    color: #ffeb71;
+}
+
+.handle {
+    position: absolute;
+    top: calc(50% - 2px);
+    left: calc(50% - 54px);
+    border-radius: 1352182483174664831485403064660560787781812355474865109245665337165791978099016110904991692854674962332587423809571411043947821390871208507333790663708502134195615340096233555938287060773195502143346549151939103584493718756052878756563273782890763019953605425879909586985946372403865847857152px;
+    background-color: #682370;
+    width: 108px;
+    height: 4px;
+}
+
+.gesture-bar {
+    align-self: stretch;
+    position: relative;
+    background-color: #885f50;
+    height: 24px;
+}
+
+.exampleslibrary-mobile {
+    width: 100%;
+    position: relative;
+    border-radius: 4845114306189028452169548582538059309326584624116462064830079529084731501198908619530700725467618841241636708705849011987485619471730629446895998777917323305299871236648102009700974833315227233616136120887748389266175236955360460592136351507186356578396289719938800132182486262650184149237760px;
+    background-color: #ffb851;
+    border: 8px solid #cac4d0;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 14px;
+    color: #111b10;
+    font-family: Roboto;
+}
+

@@ -1,0 +1,1536 @@
+
+Variant 20250427_202304:
+Episode: 0, Step: 1
+Reward: 4.0997
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 2
+Reward: 4.1994
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 3
+Reward: 6.3965
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 5
+Reward: 6.5959
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 8
+Reward: 8.4292
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 9
+Reward: 9.0527
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 11
+Reward: 9.2026
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 12
+Reward: 9.3022
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 13
+Reward: 9.4019
+Resource Usage:
+- Icons Used: 60/126
+- Images Used: 72/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 15
+Reward: 9.9159
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 16
+Reward: 10.4268
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 17
+Reward: 10.4851
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 19
+Reward: 10.5047
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250427_202304:
+Episode: 0, Step: 22
+Reward: 10.6595
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250427_202304:
+Episode: 2, Step: 3
+Reward: 10.7596
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202304:
+Episode: 2, Step: 14
+Reward: 10.7677
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202304:
+Episode: 2, Step: 16
+Reward: 10.8796
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202304:
+Episode: 2, Step: 19
+Reward: 10.8947
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202304:
+Episode: 2, Step: 23
+Reward: 10.9224
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 2, Step: 37
+Reward: 10.9473
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 2, Step: 40
+Reward: 11.0673
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 3, Step: 1
+Reward: 11.0922
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 3, Step: 3
+Reward: 11.1624
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 3, Step: 26
+Reward: 11.2175
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 3, Step: 35
+Reward: 11.2326
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 3, Step: 40
+Reward: 11.3375
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 3, Step: 45
+Reward: 11.3775
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 4, Step: 7
+Reward: 11.3926
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250427_202305:
+Episode: 4, Step: 20
+Reward: 11.4477
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 1
+Reward: 1.4230
+Resource Usage:
+- Icons Used: 0/126
+- Images Used: 0/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 2
+Reward: 3.1972
+Resource Usage:
+- Icons Used: 0/126
+- Images Used: 0/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 5
+Reward: 8.1794
+Resource Usage:
+- Icons Used: 0/126
+- Images Used: 0/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 6
+Reward: 8.2791
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 7
+Reward: 8.8056
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 13
+Reward: 8.9053
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 16
+Reward: 9.4902
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 17
+Reward: 9.5899
+Resource Usage:
+- Icons Used: 30/126
+- Images Used: 36/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 22
+Reward: 9.8247
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 25
+Reward: 9.9244
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 33
+Reward: 9.9628
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 35
+Reward: 10.3013
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 36
+Reward: 10.3410
+Resource Usage:
+- Icons Used: 110/126
+- Images Used: 100/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 37
+Reward: 10.3807
+Resource Usage:
+- Icons Used: 120/126
+- Images Used: 100/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 38
+Reward: 10.4045
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_033732:
+Episode: 0, Step: 39
+Reward: 10.5617
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_033733:
+Episode: 0, Step: 45
+Reward: 10.8017
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_033733:
+Episode: 0, Step: 46
+Reward: 10.9380
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034228:
+Episode: 0, Step: 0
+Reward: 0.0997
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 1
+Reward: 0.1994
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 2
+Reward: 1.8134
+Resource Usage:
+- Icons Used: 30/126
+- Images Used: 36/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 3
+Reward: 4.2990
+Resource Usage:
+- Icons Used: 30/126
+- Images Used: 36/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 5
+Reward: 4.3987
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 6
+Reward: 6.5959
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 7
+Reward: 7.2963
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 8
+Reward: 8.2963
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 9
+Reward: 8.8813
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 10
+Reward: 9.1297
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 11
+Reward: 9.4128
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 12
+Reward: 9.5125
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 14
+Reward: 9.5672
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 16
+Reward: 9.6669
+Resource Usage:
+- Icons Used: 60/126
+- Images Used: 72/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 17
+Reward: 9.7666
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 19
+Reward: 9.8263
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 22
+Reward: 10.2958
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 24
+Reward: 10.7091
+Resource Usage:
+- Icons Used: 90/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 25
+Reward: 10.7488
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 26
+Reward: 10.7884
+Resource Usage:
+- Icons Used: 110/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 33
+Reward: 11.2371
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034229:
+Episode: 0, Step: 36
+Reward: 11.3171
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 1
+Reward: 2.1972
+Resource Usage:
+- Icons Used: 0/126
+- Images Used: 0/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 2
+Reward: 2.2968
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 3
+Reward: 2.3965
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 5
+Reward: 2.5959
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 6
+Reward: 3.5959
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 8
+Reward: 4.0607
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 9
+Reward: 4.1603
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 11
+Reward: 4.2600
+Resource Usage:
+- Icons Used: 60/126
+- Images Used: 72/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 12
+Reward: 4.3597
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 13
+Reward: 4.4594
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 14
+Reward: 4.7378
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 15
+Reward: 5.1111
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 18
+Reward: 5.2105
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 20
+Reward: 9.2105
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 21
+Reward: 10.2105
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 22
+Reward: 10.2501
+Resource Usage:
+- Icons Used: 110/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 25
+Reward: 10.2898
+Resource Usage:
+- Icons Used: 120/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 26
+Reward: 10.3136
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 28
+Reward: 10.3504
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 33
+Reward: 10.9354
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 34
+Reward: 11.1284
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 38
+Reward: 11.1571
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034400:
+Episode: 0, Step: 47
+Reward: 11.1820
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034401:
+Episode: 5, Step: 12
+Reward: 11.2069
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034402:
+Episode: 7, Step: 46
+Reward: 11.2273
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034402:
+Episode: 8, Step: 15
+Reward: 11.3624
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034402:
+Episode: 8, Step: 17
+Reward: 11.4024
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034402:
+Episode: 8, Step: 29
+Reward: 11.4175
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 2
+Reward: 0.0997
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 3
+Reward: 2.7461
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 4
+Reward: 2.8458
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 6
+Reward: 5.0430
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 8
+Reward: 6.1426
+Resource Usage:
+- Icons Used: 30/126
+- Images Used: 36/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 9
+Reward: 6.2423
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 10
+Reward: 6.7071
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 12
+Reward: 6.8068
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 13
+Reward: 7.8068
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 16
+Reward: 7.8936
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 18
+Reward: 7.9933
+Resource Usage:
+- Icons Used: 60/126
+- Images Used: 72/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 19
+Reward: 8.0930
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 20
+Reward: 8.9980
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 21
+Reward: 9.0977
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 22
+Reward: 9.2097
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 23
+Reward: 9.2694
+Resource Usage:
+- Icons Used: 90/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 24
+Reward: 9.3494
+Resource Usage:
+- Icons Used: 90/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 28
+Reward: 9.9116
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 29
+Reward: 9.9513
+Resource Usage:
+- Icons Used: 110/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 30
+Reward: 9.9913
+Resource Usage:
+- Icons Used: 110/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 31
+Reward: 10.0309
+Resource Usage:
+- Icons Used: 120/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 33
+Reward: 10.0547
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 40
+Reward: 10.2217
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_034637:
+Episode: 0, Step: 41
+Reward: 10.3098
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 0
+Reward: 0.0997
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 1
+Reward: 2.2968
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 2
+Reward: 2.3965
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 3
+Reward: 2.4962
+Resource Usage:
+- Icons Used: 30/126
+- Images Used: 36/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 5
+Reward: 2.5959
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 8
+Reward: 5.4417
+Resource Usage:
+- Icons Used: 60/126
+- Images Used: 72/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 10
+Reward: 5.5414
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 11
+Reward: 6.8740
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 12
+Reward: 7.8740
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 13
+Reward: 7.9737
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 14
+Reward: 8.0334
+Resource Usage:
+- Icons Used: 90/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 16
+Reward: 8.6184
+Resource Usage:
+- Icons Used: 90/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 17
+Reward: 8.6580
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 20
+Reward: 8.9858
+Resource Usage:
+- Icons Used: 120/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 21
+Reward: 9.2522
+Resource Usage:
+- Icons Used: 120/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 23
+Reward: 10.2426
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 27
+Reward: 10.5656
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035021:
+Episode: 0, Step: 33
+Reward: 10.9007
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035022:
+Episode: 0, Step: 35
+Reward: 10.9322
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035023:
+Episode: 11, Step: 37
+Reward: 11.0220
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035030:
+Episode: 48, Step: 24
+Reward: 11.1518
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035039:
+Episode: 99, Step: 8
+Reward: 11.3171
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 1
+Reward: 2.2968
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 2
+Reward: 3.1166
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 3
+Reward: 3.6414
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 4
+Reward: 3.7411
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 5
+Reward: 7.7411
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 8
+Reward: 7.8408
+Resource Usage:
+- Icons Used: 30/126
+- Images Used: 36/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 9
+Reward: 7.9405
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 10
+Reward: 8.6409
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 12
+Reward: 9.0491
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 13
+Reward: 9.2458
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 15
+Reward: 9.7594
+Resource Usage:
+- Icons Used: 60/126
+- Images Used: 72/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 18
+Reward: 10.1486
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 19
+Reward: 10.1749
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 20
+Reward: 10.2746
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 22
+Reward: 10.3743
+Resource Usage:
+- Icons Used: 90/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 23
+Reward: 10.4140
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 24
+Reward: 10.4536
+Resource Usage:
+- Icons Used: 110/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 25
+Reward: 10.5336
+Resource Usage:
+- Icons Used: 110/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035227:
+Episode: 0, Step: 42
+Reward: 10.5576
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 0
+Reward: 0.0997
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 1
+Reward: 1.6847
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 2
+Reward: 4.9433
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 3
+Reward: 6.4008
+Resource Usage:
+- Icons Used: 10/126
+- Images Used: 12/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 4
+Reward: 6.5004
+Resource Usage:
+- Icons Used: 20/126
+- Images Used: 24/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 5
+Reward: 6.6001
+Resource Usage:
+- Icons Used: 30/126
+- Images Used: 36/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 8
+Reward: 6.6998
+Resource Usage:
+- Icons Used: 40/126
+- Images Used: 48/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 9
+Reward: 6.7995
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 10
+Reward: 7.6192
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 11
+Reward: 8.0668
+Resource Usage:
+- Icons Used: 50/126
+- Images Used: 60/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 13
+Reward: 8.1664
+Resource Usage:
+- Icons Used: 60/126
+- Images Used: 72/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 14
+Reward: 8.6384
+Resource Usage:
+- Icons Used: 60/126
+- Images Used: 72/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 15
+Reward: 8.7381
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 16
+Reward: 9.2350
+Resource Usage:
+- Icons Used: 70/126
+- Images Used: 84/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 17
+Reward: 9.3347
+Resource Usage:
+- Icons Used: 80/126
+- Images Used: 96/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 18
+Reward: 9.3944
+Resource Usage:
+- Icons Used: 90/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 20
+Reward: 9.4565
+Resource Usage:
+- Icons Used: 90/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 22
+Reward: 9.4962
+Resource Usage:
+- Icons Used: 100/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 24
+Reward: 9.5359
+Resource Usage:
+- Icons Used: 110/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 29
+Reward: 9.8076
+Resource Usage:
+- Icons Used: 120/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 30
+Reward: 9.8314
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 33
+Reward: 10.0065
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 34
+Reward: 10.1347
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 35
+Reward: 10.3070
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 36
+Reward: 10.4771
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 39
+Reward: 10.6522
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035435:
+Episode: 0, Step: 40
+Reward: 10.9224
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035436:
+Episode: 2, Step: 28
+Reward: 10.9294
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035436:
+Episode: 2, Step: 31
+Reward: 11.0094
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
+
+Variant 20250428_035436:
+Episode: 4, Step: 1
+Reward: 11.0477
+Resource Usage:
+- Icons Used: 126/126
+- Images Used: 100/100
+---
