@@ -93,7 +93,7 @@ class CSSEvaluator:
                     elif deviation <= 8:
                         score = 0.3
                     else:
-                        score = max(0.1, math.exp(-deviation/8))
+                        score = max(0.1, math.exp(-deviation))
                     
                     scores.append(score)
         
@@ -136,7 +136,7 @@ class CSSEvaluator:
                     elif deviation <= 3:
                         score = 0.2
                     else:
-                        score = max(0.1, math.exp(-deviation + 3))
+                        score = max(0.1, math.exp(-deviation))
                     
                     scores.append(score)
         
@@ -208,7 +208,7 @@ class CSSEvaluator:
                 elif size_deviation <= 4:
                     size_score = 0.6
                 else:
-                    size_score = max(0.2, math.exp(-size_deviation/4))
+                    size_score = max(0.2, math.exp(-size_deviation))
                 
                 scores.append(size_score)
             
@@ -223,7 +223,7 @@ class CSSEvaluator:
                 elif lh_deviation <= 6:
                     lh_score = 0.6
                 else:
-                    lh_score = max(0.2, math.exp(-lh_deviation/6))
+                    lh_score = max(0.2, math.exp(-lh_deviation))
                 
                 scores.append(lh_score)
             
@@ -238,7 +238,7 @@ class CSSEvaluator:
                 elif weight_deviation <= 200:
                     weight_score = 0.6
                 else:
-                    weight_score = max(0.2, math.exp(-weight_deviation/200))
+                    weight_score = max(0.2, math.exp(-weight_deviation))
                 
                 scores.append(weight_score)
         

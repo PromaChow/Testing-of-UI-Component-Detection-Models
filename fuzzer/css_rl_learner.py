@@ -75,9 +75,9 @@ class CSSRLLearner:
         
         state_parts = []
         for feature, data in state_features.items():
-            inc_bin = min(2, data['increases'] // 2)
-            dec_bin = min(2, data['decreases'] // 2)
-            avg_bin = min(4, int(data['avg_value'] / 20)) if data['avg_value'] > 0 else 0
+            inc_bin = data['increases']
+            dec_bin =  data['decreases'] 
+            avg_bin =  int(data['avg_value']) 
             state_parts.append(f"{feature}_{inc_bin}{dec_bin}{avg_bin}")
         
         return "|".join(state_parts)
