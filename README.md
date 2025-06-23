@@ -200,13 +200,12 @@ Contrast ratio = (lighter luminance + 0.05) / (darker luminance + 0.05)
 
 ### Scoring System
 
-| Deviation   | Score      | Quality             |
-| ----------- | ---------- | ------------------- |
-| Exact match | 1.0        | Perfect             |
-| ±2px        | 0.8        | Good                |
-| ±4px        | 0.6        | Acceptable          |
-| ±8px        | 0.3        | Poor                |
-| >8px        | e^(-dev/8) | Very Poor (min 0.1) |
+| Deviation   | Score | Quality    |
+| ----------- | ----- | ---------- |
+| Exact match | 1.0   | Perfect    |
+| ±2px        | 0.8   | Good       |
+| ±4px        | 0.6   | Acceptable |
+| ±8px        | 0.3   | Poor       |
 
 ## Elevation Guidelines (Material Design)
 
@@ -221,13 +220,12 @@ Contrast ratio = (lighter luminance + 0.05) / (darker luminance + 0.05)
 
 ### Scoring System
 
-| Deviation | Score      | Quality             |
-| --------- | ---------- | ------------------- |
-| ±0.5dp    | 1.0        | Perfect             |
-| ±1dp      | 0.8        | Good                |
-| ±2dp      | 0.5        | Acceptable          |
-| ±3dp      | 0.2        | Poor                |
-| >3dp      | e^(-dev+3) | Very Poor (min 0.1) |
+| Deviation | Score | Quality    |
+| --------- | ----- | ---------- |
+| ±0.5dp    | 1.0   | Perfect    |
+| ±1dp      | 0.8   | Good       |
+| ±2dp      | 0.5   | Acceptable |
+| ±3dp      | 0.2   | Poor       |
 
 ## Typography Guidelines (Material Design)
 
@@ -264,12 +262,11 @@ Contrast ratio = (lighter luminance + 0.05) / (darker luminance + 0.05)
 
 #### Font Size Deviation
 
-| Deviation | Score                |
-| --------- | -------------------- |
-| ±1px      | 1.0                  |
-| ±2px      | 0.8                  |
-| ±4px      | 0.6                  |
-| >4px      | e^(-dev/4) (min 0.2) |
+| Deviation | Score |
+| --------- | ----- |
+| ±1px      | 1.0   |
+| ±2px      | 0.8   |
+| ±4px      | 0.6   |
 
 #### Line Height Deviation
 
@@ -282,12 +279,11 @@ Contrast ratio = (lighter luminance + 0.05) / (darker luminance + 0.05)
 
 #### Font Weight Deviation
 
-| Deviation | Score                  |
-| --------- | ---------------------- |
-| ±50       | 1.0                    |
-| ±100      | 0.8                    |
-| ±200      | 0.6                    |
-| >200      | e^(-dev/200) (min 0.2) |
+| Deviation | Score |
+| --------- | ----- |
+| ±50       | 1.0   |
+| ±100      | 0.8   |
+| ±200      | 0.6   |
 
 ## Overall Evaluation
 
